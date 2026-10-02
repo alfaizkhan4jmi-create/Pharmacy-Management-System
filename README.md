@@ -1,13 +1,10 @@
 # Pharmacy-Management-System
 Pharmacy Management System built using Python, Tkinter, MySQL, and PyMySQL. It allows admins to add, update, delete, and manage medicines, while users can search and view medicine details....
-#   Pharmacy Management System
-
-A desktop-based Pharmacy Management System developed using *Python Tkinter* and *MySQL*.
 
 ##  Project Overview
 
+A desktop-based Pharmacy Management System developed using *Python Tkinter* and *MySQL*.
 This project is designed to manage pharmacy medicines efficiently. The system provides separate Admin and User pages.
-
 The Admin can manage medicine records, while users can search and view available medicines.
 
 ##  Features
