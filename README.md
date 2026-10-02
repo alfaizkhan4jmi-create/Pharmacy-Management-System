@@ -32,7 +32,7 @@ The Admin can manage medicine records, while users can search and view available
 - python-dotenv
 - ttk Treeview
 
-## 📂 Project Structure
+##  Project Structure
 
 PharmacyProject/
 │
@@ -42,7 +42,7 @@ PharmacyProject/
 ├── .gitignore
 └── README.md
 
-## 👨‍💻 Admin Access
+##  Admin Access
 
 Username:
 XXXXX
@@ -57,7 +57,7 @@ After login, the admin can:
 - Delete medicines
 - View all medicines
 
-## 🗄️ Database
+##  Database
 
 Database Name:
 
